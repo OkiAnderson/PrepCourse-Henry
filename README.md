@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del modulo 2 de prueba de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde hithub a mi computadora
